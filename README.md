@@ -21,9 +21,6 @@ Traditional UI requires users to understand:
 
 Modern copilots should instead allow users to simply describe what they want.
 
-Example:
-
-> "Give Platinum members 500 bonus points for purchases above ₹2000 during Diwali."
 
 The copilot should convert that request into a valid configuration without requiring the user to navigate multiple forms.
 
